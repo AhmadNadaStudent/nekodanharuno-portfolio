@@ -47,6 +47,7 @@ export const projects: Project[] = [
     tag: [
       'After Effects',
       'Debut PV',
+      'PV',
     ],
     featured: false  },  
     
