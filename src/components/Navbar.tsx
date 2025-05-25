@@ -61,7 +61,7 @@ const Navbar = () => {
     <nav ref={navRef} className="fixed top-0 left-0 w-full z-50 py-6 px-6 md:px-12 backdrop-blur-sm bg-background/70 border-b border-border/50">
       <div className="flex items-center">
         <div className="w-1/4">
-              <Link to="/" className="font-display text-xl font-semibold">
+              <Link to="/#home" className="font-display text-xl font-semibold">
                 <AppLogo className="h-8 w-auto" />
               </Link>
         </div>          
